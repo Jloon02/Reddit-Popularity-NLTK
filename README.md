@@ -1,5 +1,5 @@
-# Cmpt-353-Project
-Final project for CMPT 353
+# Reddit Popularity Analysis
+What makes a Reddit post popular?
 
 ## Our Topic:
 How to farm karma and score on Reddit.<br/>
